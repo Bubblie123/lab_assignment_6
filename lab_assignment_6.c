@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+//Rohan Suresh
+//COP3352C
+
+
 int search(int numbers[], int low, int high, int value) 
 {
     while(low != high) {
