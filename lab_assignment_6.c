@@ -15,7 +15,7 @@ int search(int numbers[], int low, int high, int value)
             low = mid + 1;
         }
         else
-            high = mid -1;
+            high = mid - 1;
 
     }
 	return -1;
